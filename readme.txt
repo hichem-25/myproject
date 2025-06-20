@@ -4,3 +4,4 @@ This is a new feature I'm testing.
 Hello from both sides.
 commit for github.
 commit for clone step.
+Update from myprojectcopy.
